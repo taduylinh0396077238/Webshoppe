@@ -1,0 +1,24 @@
+*{
+  box-sizing: inherit;
+    
+}
+
+html{
+    font-size: 62.5%;
+}
+:root {
+    --primary-color : rgb(238, 77, 45);
+    --white-color : #fff;
+    --black-color : #000;
+    
+}
+
+
+@keyframes fadeIn {
+    for {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+    }
